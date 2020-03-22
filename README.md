@@ -15,16 +15,17 @@ el número no es positivo, solo retorna el número.
         suma = 1 +1 = 2 (si es de un digito)
         Salida: 2
 
-3.	Realice el método que te permita obtener la diferencia entre 2 números introducidos por la misma línea y separados únicamente por un espacio. Restricciones: Usar solo el método length() de String.
+3.	Realice el método que te permita obtener la diferencia entre 2 números introducidos por la misma línea y separados únicamente por un espacio. Restricciones: Usar solo el método length() y charAt() de String.
 
         Entrada: 100 200
         Salida: 100
 
-	      Entrada: 16 12
-	      Salida: 4
+	Entrada: 16 12
+	Salida: 4
 
-4.	Dado un número, ordenarlos de manera ascendente y descendente, restar el número descendente al número ascendente repitiendo la operación hasta que el resultado dado sea cero o bien ya haya sido obtenido con anterioridad
-        Entrada: 444
+4.	Dado un número, ordenarlos de manera ascendente y descendente, restar el número ascendente al número descendente repitiendo la operación hasta que el resultado dado sea cero o bien ya haya sido obtenido con anterioridad
+        
+	Entrada: 444
         444 – 444 = 0
         0 – 0 = 0
         Salida: 2
